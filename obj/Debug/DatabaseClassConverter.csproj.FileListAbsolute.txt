@@ -1,0 +1,40 @@
+D:\ProjectWorkspaces\DatabaseToC#Class\DatabaseClassConverter\bin\Debug\DatabaseClassConverter.exe
+D:\ProjectWorkspaces\DatabaseToC#Class\DatabaseClassConverter\bin\Debug\DatabaseClassConverter.pdb
+D:\ProjectWorkspaces\DatabaseToC#Class\DatabaseClassConverter\obj\Debug\DatabaseClassConverter.csprojResolveAssemblyReference.cache
+D:\ProjectWorkspaces\DatabaseToC#Class\DatabaseClassConverter\obj\Debug\DatabaseClassConverter.Properties.Resources.resources
+D:\ProjectWorkspaces\DatabaseToC#Class\DatabaseClassConverter\obj\Debug\DatabaseClassConverter.csproj.GenerateResource.Cache
+D:\ProjectWorkspaces\DatabaseToC#Class\DatabaseClassConverter\obj\Debug\DatabaseClassConverter.exe
+D:\ProjectWorkspaces\DatabaseToC#Class\DatabaseClassConverter\obj\Debug\DatabaseClassConverter.pdb
+D:\ProjectWorkspaces\DatabaseToC#Class\DatabaseClassConverter\obj\Debug\DatabaseClassConverter.MainForm.resources
+D:\ProjectWorkspaces\Universal_Utilities\DatabaseToC#Class\DatabaseClassConverter\obj\Debug\DatabaseClassConverter.exe
+D:\ProjectWorkspaces\Universal_Utilities\DatabaseToC#Class\DatabaseClassConverter\obj\Debug\DatabaseClassConverter.pdb
+D:\ProjectWorkspaces\Universal_Utilities\DatabaseToC#Class\DatabaseClassConverter\bin\Debug\DatabaseClassConverter.exe
+D:\ProjectWorkspaces\Universal_Utilities\DatabaseToC#Class\DatabaseClassConverter\bin\Debug\DatabaseClassConverter.pdb
+D:\ProjectWorkspaces\Universal_Utilities\DatabaseToC#Class\DatabaseClassConverter\obj\Debug\DatabaseClassConverter.csprojResolveAssemblyReference.cache
+D:\ProjectWorkspaces\Universal_Utilities\DatabaseToC#Class\DatabaseClassConverter\obj\Debug\DatabaseClassConverter.MainForm.resources
+D:\ProjectWorkspaces\Universal_Utilities\DatabaseToC#Class\DatabaseClassConverter\obj\Debug\DatabaseClassConverter.Properties.Resources.resources
+D:\ProjectWorkspaces\Universal_Utilities\DatabaseToC#Class\DatabaseClassConverter\obj\Debug\DatabaseClassConverter.csproj.GenerateResource.Cache
+D:\VSProjects\MyUtilities\DatabaseToC#Class\DatabaseClassConverter\obj\Debug\DatabaseClassConverter.exe
+D:\VSProjects\MyUtilities\DatabaseToC#Class\DatabaseClassConverter\obj\Debug\DatabaseClassConverter.pdb
+D:\VSProjects\MyUtilities\DatabaseToC#Class\DatabaseClassConverter\bin\Debug\DatabaseClassConverter.exe
+D:\VSProjects\MyUtilities\DatabaseToC#Class\DatabaseClassConverter\bin\Debug\DatabaseClassConverter.pdb
+D:\VSProjects\MyUtilities\DatabaseToC#Class\DatabaseClassConverter\obj\Debug\DatabaseClassConverter.csprojResolveAssemblyReference.cache
+D:\VSProjects\MyUtilities\DatabaseToC#Class\DatabaseClassConverter\obj\Debug\DatabaseClassConverter.MainForm.resources
+D:\VSProjects\MyUtilities\DatabaseToC#Class\DatabaseClassConverter\obj\Debug\DatabaseClassConverter.Properties.Resources.resources
+D:\VSProjects\MyUtilities\DatabaseToC#Class\DatabaseClassConverter\obj\Debug\DatabaseClassConverter.csproj.GenerateResource.Cache
+F:\Office Work\DB2C#ClassConverter\obj\Debug\DatabaseClassConverter.exe
+F:\Office Work\DB2C#ClassConverter\obj\Debug\DatabaseClassConverter.pdb
+F:\Office Work\DB2C#ClassConverter\bin\Debug\DatabaseClassConverter.exe
+F:\Office Work\DB2C#ClassConverter\bin\Debug\DatabaseClassConverter.pdb
+F:\Office Work\DB2C#ClassConverter\obj\Debug\DatabaseClassConverter.csprojResolveAssemblyReference.cache
+F:\Office Work\DB2C#ClassConverter\obj\Debug\DatabaseClassConverter.MainForm.resources
+F:\Office Work\DB2C#ClassConverter\obj\Debug\DatabaseClassConverter.Properties.Resources.resources
+F:\Office Work\DB2C#ClassConverter\obj\Debug\DatabaseClassConverter.csproj.GenerateResource.Cache
+C:\MyProjects\MyUtilities\database-c-class-converter\obj\Debug\DatabaseClassConverter.exe
+C:\MyProjects\MyUtilities\database-c-class-converter\obj\Debug\DatabaseClassConverter.pdb
+C:\MyProjects\MyUtilities\database-c-class-converter\bin\Debug\DatabaseClassConverter.exe
+C:\MyProjects\MyUtilities\database-c-class-converter\bin\Debug\DatabaseClassConverter.pdb
+C:\MyProjects\MyUtilities\database-c-class-converter\obj\Debug\DatabaseClassConverter.csprojResolveAssemblyReference.cache
+C:\MyProjects\MyUtilities\database-c-class-converter\obj\Debug\DatabaseClassConverter.MainForm.resources
+C:\MyProjects\MyUtilities\database-c-class-converter\obj\Debug\DatabaseClassConverter.Properties.Resources.resources
+C:\MyProjects\MyUtilities\database-c-class-converter\obj\Debug\DatabaseClassConverter.csproj.GenerateResource.Cache
